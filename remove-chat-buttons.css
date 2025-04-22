@@ -1,0 +1,11 @@
+/* i'm a fake and a fraud because i don't remember where i got these from, probably reddit to be honest */
+
+button[aria-label="Send a gift"] {
+    display: none;
+}
+button[aria-label="Open GIF picker"] {
+    display: none;
+}
+button[aria-label="Open sticker picker"] {
+    display: none;
+}
